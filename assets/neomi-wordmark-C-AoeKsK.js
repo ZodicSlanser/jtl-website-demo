@@ -1,0 +1,1 @@
+var e=`/jtl-website-demo/assets/neomi-wordmark-vjTvrUuk.png`;export{e as t};
